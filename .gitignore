@@ -1,3 +1,9 @@
+/out
+bin/
+build/
+.idea/
+CMakeSettings.json
+
 # Directories
 .vs/
 Binaries/
@@ -9,6 +15,3 @@ Binaries/
 *.sln
 *.log
 Makefile
-
-# Exclude
-!Vendor/Binaries
